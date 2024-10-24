@@ -1,7 +1,7 @@
 # Red Scripts
-Red Script contains several Python scripts that can be used to check vulnerabilities. 
+Red Scripts contains several Python scripts that can be used to check vulnerabilities. 
 
-# Caution 
+# ⚠️ Caution 
 
 **Before using these tools, please consider the following:**
 
